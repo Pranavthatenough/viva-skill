@@ -1,0 +1,42 @@
+PHOTOSYNTHESIS IN HIGHER PLANTS - my notes (Class 11 Biology)
+
+What it is
+Photosynthesis makes glucose from carbon dioxide and water using light energy. Oxygen is released.
+Overall: 6CO2 + 12H2O --(light, chlorophyll)--> C6H12O6 + 6O2 + 6H2O
+The oxygen released comes from WATER, not from CO2 (proved using O-18 labelled water, Ruben and Kamen).
+
+Where it happens
+In chloroplasts. Thylakoid membranes (stacked into grana) = light reaction. Stroma = dark reaction (Calvin cycle).
+Pigments: chlorophyll a (main pigment, reaction centre), chlorophyll b, carotenoids (accessory pigments - absorb other wavelengths and protect from photo-oxidation).
+Chlorophyll absorbs mainly blue and red light. It reflects green, which is why leaves look green.
+
+Light reaction (needs light)
+- Photosystem II (P680) and Photosystem I (P700).
+- Photolysis of water at PS II: 2H2O -> 4H+ + O2 + 4e-. This replaces the electrons PS II lost.
+- Electrons pass along the electron transport chain from PS II to PS I.
+- Products: ATP (by chemiosmosis - H+ flows through ATP synthase) and NADPH.
+- Non-cyclic photophosphorylation uses both PS I and PS II and gives ATP + NADPH + O2.
+- Cyclic photophosphorylation uses only PS I and gives only ATP (no NADPH, no O2).
+
+Dark reaction / Calvin cycle (does not need light directly, but needs ATP and NADPH from the light reaction)
+1. Carboxylation: CO2 + RuBP -> 2 molecules of 3-PGA. Enzyme: RuBisCO (most abundant enzyme on Earth).
+2. Reduction: 3-PGA -> G3P using ATP and NADPH.
+3. Regeneration of RuBP using ATP.
+To make 1 glucose: 6 turns of the cycle, 18 ATP and 12 NADPH.
+"Dark reaction" is a misleading name - it happens in the day, because it needs the products of the light reaction.
+
+C4 plants (maize, sugarcane)
+- First stable product is a 4-carbon compound (oxaloacetic acid), not 3-PGA.
+- Kranz anatomy: bundle sheath cells around the veins.
+- PEP carboxylase fixes CO2 first in mesophyll cells. It does not react with O2.
+- Advantage: almost no photorespiration, so better yield in hot, bright, dry places.
+
+Photorespiration
+- At high temperature and high O2, RuBisCO binds O2 instead of CO2.
+- This wastes energy and releases CO2. No sugar, no ATP is made.
+- C3 plants suffer from it; C4 plants avoid it by concentrating CO2 around RuBisCO.
+
+Factors affecting rate
+Light intensity, CO2 concentration, temperature, water.
+Blackman's law of limiting factors: the rate is limited by the factor in shortest supply.
+Example: on a bright day, adding more light won't help if CO2 is the limiting factor. Greenhouses add CO2 to raise yield.
