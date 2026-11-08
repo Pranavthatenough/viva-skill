@@ -1,6 +1,4 @@
-# Project 16 · Your Own Skill — `/viva`
-
-**Section D · Video, skills and design** — GenAI Internship, Week 2, Bharat Space Education Research Centre
+# Your Own Skill — `/viva`
 
 `/viva` turns your AI agent into a viva examiner. Give it your notes and it:
 1. reads the whole file (PDF, Markdown, text or Word),
